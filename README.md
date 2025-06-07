@@ -46,7 +46,7 @@ A strategic mind in a data-driven world — I turn ambiguity into insight, and i
 
 ## 📫 Let’s Connect
 
-- [https://www.linkedin.com/in/joaofdossantos/]  
+- https://www.linkedin.com/in/joaofdossantos/  
 - Email: joaofsant@outlook.pt  
 - Medium (coming soon)
 
