@@ -1,7 +1,7 @@
 # 👋 Hey there, I’m João!
 
 I combine analytical thinking with tactical discipline.  
-Now I’m focused on building **data pipelines** and **automating workflows** that turn raw data into reliable insights.
+Now I’m focused on building data pipelines and automating workflows that turn raw data into reliable insights.
 
 ---
 
