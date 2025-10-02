@@ -1,36 +1,73 @@
-# 👋 Hey there, I’m João!
+# 🏗️ The Data Forge
 
-I combine analytical thinking with tactical discipline.  
-Now I’m focused on building data pipelines and automating workflows that turn raw data into reliable insights.
+*At 40, I decided to restart. This is my forge: where discipline, curiosity and data pipelines meet.*  
+Turning raw data into structured, reliable insights — one pipeline at a time.
 
 ---
 
-## ⚡ Key Projects
+## ⚡ About Me
+
+I combine **analytical thinking** with the **discipline of execution**.  
+My focus is on **data engineering**: designing, automating, and optimizing the flows that make data trustworthy.
+
+---
+
+## 🔥 Key Projects
 
 🚀 **[Kernelcut – Automated Tech Digest](https://github.com/joaofsant/kernelcut)**  
 End-to-end pipeline that ingests multiple RSS feeds, filters and ranks articles, and publishes a daily digest via GitHub Actions + Pages.  
-*Stack: Python, Pandas, Parquet, Feedparser, GitHub Actions, CI/CD*  
-👉 Live: [https://joaofsant.github.io/kernelcut/](https://joaofsant.github.io/kernelcut/)
+*Stack: Python, Pandas, Parquet, Feedparser, GitHub Actions*  
+👉 Live: [kernelcut.com](https://joaofsant.github.io/kernelcut/)
+
+🗂 **[NYC Taxi SQL Optimization](https://github.com/joaofsant/nyc-taxi-sql-optimization)**  
+Explored 12.7M NYC taxi rides with DuckDB + SQL-only workflow. Showcases indexing, query optimization, and handling large-scale CSVs efficiently.  
+*Stack: SQL, DuckDB, Jupyter, GitHub Pages*
 
 🔍 **[Churn Prediction – Customer Retention Modeling](https://github.com/joaofsant/churn-prediction-project)**  
-Built a supervised learning pipeline with XGBoost, including feature engineering, training, and explainability via SHAP.  
+Supervised learning pipeline with XGBoost, including feature engineering and explainability via SHAP.  
 *Stack: Python, Pandas, Scikit-learn, SHAP*
 
 ---
 
-## 🔧 Skills & Tools
+## 📚 Roadmap (Learning Path)
 
-**Languages:** Python, SQL  
-**Data Engineering:** Pandas, PyArrow/Fastparquet, ETL, API ingestion  
-**Workflow & Automation:** GitHub Actions, CI/CD, Docker (basic)  
-**Data Science Foundations:** Scikit-learn, XGBoost, SHAP  
-**Other:** Git, Jupyter, FastAPI (learning)
+Structured journey from zero → pipelines:
+
+- **Month 1**: SQL & Linux mastery → [Project: NYC Taxi](https://github.com/joaofsant/nyc-taxi-sql-optimization)  
+- **Month 2**: Python for Data Engineering (SQLAlchemy, FastAPI)  
+- **Month 3**: Pipelines & Orchestration (Airflow, Docker)  
+- **Month 4**: Big Data & Cloud Basics (Spark, S3, Athena)  
+- **Month 5**: Advanced Data Engineering (Kafka, Dimensional Modeling)  
+- **Month 6**: MLOps & LLM Foundations (Feature stores, RAG pipelines)
+
+👉 Full details: [📚 Roadmap Data Engineer](https://www.notion.so/Roadmap-Data-Engineer-26d60e0a49f38085b826d72d828c90d7?pvs=21)
 
 ---
 
-## 🎯 One-Liner
+## 🛠 Skills & Tools
 
-*A pipeline mindset: clean inputs, reliable outputs, and automation at the core.*
+**Languages** → Python, SQL  
+**Data Engineering** → Pandas, DuckDB, PyArrow, ETL, Airflow (learning)  
+**Workflow** → GitHub Actions, Docker  
+**Data Science Foundations** → Scikit-learn, XGBoost, SHAP  
+**Cloud (Learning)** → AWS/GCP basics (S3, Athena, BigQuery)  
+
+---
+
+## 📖 Logbook
+
+*A captain’s log, data edition.*
+
+- **2025-09-13** → *“Wrestled with Airflow DAGs. Failed twice, succeeded once. Pipelines are like discipline: fragile if ignored, powerful when maintained.”*  
+- **2025-09-07** → *“SQL window functions → finally clicked. They are the telescopes of data analysis: they let you see patterns across the horizon.”*
+
+---
+
+## ⚡ Insights
+
+⚙️ *A database without indexing is like a life without priorities.*  
+🌊 *Data pipelines are rivers: they need flow, cleaning points, and monitoring stations.*  
+🧩 *Every bug is a puzzle. Frustration is part of the solution.*  
 
 ---
 
