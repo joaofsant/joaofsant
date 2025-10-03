@@ -1,73 +1,65 @@
-# 🏗️ The Data Forge
+# 👋 Hey, I’m João — Welcome to The Data Forge
 
-*At 40, I decided to restart. This is my forge: where discipline, curiosity and data pipelines meet.*  
-Turning raw data into structured, reliable insights — one pipeline at a time.
-
----
-
-## ⚡ About Me
-
-I combine **analytical thinking** with the **discipline of execution**.  
-My focus is on **data engineering**: designing, automating, and optimizing the flows that make data trustworthy.
+This is my forge: where **discipline, curiosity, and data pipelines meet**.  
+I’m building a career in **Data Engineering**, step by step, project by project.  
 
 ---
 
-## 🔥 Key Projects
+## ⚡ Journey Highlights
 
-🚀 **[Kernelcut – Automated Tech Digest](https://github.com/joaofsant/kernelcut)**  
-End-to-end pipeline that ingests multiple RSS feeds, filters and ranks articles, and publishes a daily digest via GitHub Actions + Pages.  
-*Stack: Python, Pandas, Parquet, Feedparser, GitHub Actions*  
-👉 Live: [kernelcut.com](https://joaofsant.github.io/kernelcut/)
-
-🗂 **[NYC Taxi SQL Optimization](https://github.com/joaofsant/nyc-taxi-sql-optimization)**  
-Explored 12.7M NYC taxi rides with DuckDB + SQL-only workflow. Showcases indexing, query optimization, and handling large-scale CSVs efficiently.  
-*Stack: SQL, DuckDB, Jupyter, GitHub Pages*
-
-🔍 **[Churn Prediction – Customer Retention Modeling](https://github.com/joaofsant/churn-prediction-project)**  
-Supervised learning pipeline with XGBoost, including feature engineering and explainability via SHAP.  
-*Stack: Python, Pandas, Scikit-learn, SHAP*
+- 🛠 Transitioned into tech with a Master’s in Data Science  
+- 🗂 Designed **data pipelines** that ingest, clean, and publish information (see Kernelcut project)  
+- 📊 Optimized **SQL queries on 12.7M+ NYC taxi rides** using DuckDB  
+- 🤖 Built **machine learning models** (XGBoost + SHAP) for churn prediction  
+- 🌍 Currently expanding into **Airflow, Spark, and Cloud (AWS/GCP)**  
 
 ---
 
-## 📚 Roadmap (Learning Path)
+## 📚 Data Engineer Roadmap
 
-Structured journey from zero → pipelines:
+*A structured journey from zero → professional pipelines.*
 
-- **Month 1**: SQL & Linux mastery → [Project: NYC Taxi](https://github.com/joaofsant/nyc-taxi-sql-optimization)  
-- **Month 2**: Python for Data Engineering (SQLAlchemy, FastAPI)  
-- **Month 3**: Pipelines & Orchestration (Airflow, Docker)  
-- **Month 4**: Big Data & Cloud Basics (Spark, S3, Athena)  
-- **Month 5**: Advanced Data Engineering (Kafka, Dimensional Modeling)  
-- **Month 6**: MLOps & LLM Foundations (Feature stores, RAG pipelines)
+**Month 1 – SQL & Linux**  
+👉 [NYC Taxi SQL Optimization](https://github.com/joaofsant/nyc-taxi-sql-optimization)  
+Learned query optimization, indexing, and handling millions of rows.  
 
-👉 Full details: [📚 Roadmap Data Engineer](https://www.notion.so/Roadmap-Data-Engineer-26d60e0a49f38085b826d72d828c90d7?pvs=21)
+**Month 2 – Python for Data Engineering**  
+Building pipelines with Pandas, SQLAlchemy, FastAPI.  
 
----
+**Month 3 – Orchestration**  
+Airflow + Docker → automated data flows.  
 
-## 🛠 Skills & Tools
+**Month 4 – Big Data & Cloud**  
+Spark, AWS S3/Athena, Redshift basics.  
 
-**Languages** → Python, SQL  
-**Data Engineering** → Pandas, DuckDB, PyArrow, ETL, Airflow (learning)  
-**Workflow** → GitHub Actions, Docker  
-**Data Science Foundations** → Scikit-learn, XGBoost, SHAP  
-**Cloud (Learning)** → AWS/GCP basics (S3, Athena, BigQuery)  
+**Month 5 – Streaming & Warehousing**  
+Kafka, dimensional modeling, Snowflake/Postgres.  
 
----
+**Month 6 – MLOps & LLM Foundations**  
+Feature stores, model monitoring, RAG pipelines.  
 
-## 📖 Logbook
-
-*A captain’s log, data edition.*
-
-- **2025-09-13** → *“Wrestled with Airflow DAGs. Failed twice, succeeded once. Pipelines are like discipline: fragile if ignored, powerful when maintained.”*  
-- **2025-09-07** → *“SQL window functions → finally clicked. They are the telescopes of data analysis: they let you see patterns across the horizon.”*
+📖 Full detail: [Roadmap Data Engineer (Notion)](https://www.notion.so/Roadmap-Data-Engineer-26d60e0a49f38085b826d72d828c90d7?pvs=21)
 
 ---
 
-## ⚡ Insights
+## 🚀 Projects Forged
 
-⚙️ *A database without indexing is like a life without priorities.*  
-🌊 *Data pipelines are rivers: they need flow, cleaning points, and monitoring stations.*  
-🧩 *Every bug is a puzzle. Frustration is part of the solution.*  
+🔹 **[Kernelcut – Automated Tech Digest](https://github.com/joaofsant/kernelcut)**  
+RSS ingestion → filtering → ranking → daily digest via GitHub Actions + Pages.  
+*Stack: Python, Pandas, Parquet, GitHub Actions*  
+👉 [Live Demo](https://joaofsant.github.io/kernelcut/)
+
+🔹 **[NYC Taxi SQL Optimization](https://github.com/joaofsant/nyc-taxi-sql-optimization)**  
+DuckDB + SQL-only → analyzing 12.7M trips, indexing, performance tuning.  
+
+🔹 **[Churn Prediction](https://github.com/joaofsant/churn-prediction-project)**  
+Supervised learning pipeline with XGBoost + SHAP for explainability.  
+
+---
+
+## 🎯 One-Liner
+
+*A pipeline mindset: clean inputs, reliable outputs, and automation at the core.*  
 
 ---
 
@@ -78,4 +70,8 @@ Structured journey from zero → pipelines:
 
 ---
 
-> *“Data never speaks loudly. It’s the right question that gives it a voice.”*
+> *“Data never speaks loudly. It’s the right question that gives it a voice.”*  
+
+---
+
+👀 *If you’re a recruiter or a team lead reading this: I’m not just learning data engineering, I’m already practicing it. The next step is forging pipelines at scale in a company like yours.*
