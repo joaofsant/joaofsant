@@ -1,4 +1,4 @@
-# 👋 Hey, I’m João — Welcome to The Data Forge
+# 👋 Hey, I’m João! Welcome to The Data Forge
 
 This is my forge: where **discipline, curiosity, and data pipelines meet**.  
 I’m building a career in **Data Engineering**, step by step, project by project.  
@@ -72,6 +72,3 @@ Supervised learning pipeline with XGBoost + SHAP for explainability.
 
 > *“Data never speaks loudly. It’s the right question that gives it a voice.”*  
 
----
-
-👀 *If you’re a recruiter or a team lead reading this: I’m not just learning data engineering, I’m already practicing it. The next step is forging pipelines at scale in a company like yours.*
