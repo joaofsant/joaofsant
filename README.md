@@ -1,74 +1,30 @@
-# 👋 Hey, I’m João! Welcome to The Data Forge
+# João dos Santos
 
-This is my forge: where **discipline, curiosity, and data pipelines meet**.  
-I’m building a career in **Data Engineering**, step by step, project by project.  
+Data Science (MSc) | PMP | Analytics & Data Engineering Projects  
+Cork, Ireland | English / Portuguese / Spanish
 
----
+## About
+I build practical analytics and data engineering projects focused on:
+- data ingestion and transformation
+- SQL performance and large-scale querying
+- automation (scheduled runs, reproducible pipelines)
+- clear reporting and decision-oriented outputs
 
-## ⚡ Journey Highlights
+## Featured Projects
+- **Kernelcut – Automated Tech Digest**  
+  RSS ingestion → filtering → ranking → daily digest via GitHub Actions + Pages  
+  Stack: Python, pandas, Parquet, GitHub Actions  
+  Repo: https://github.com/joaofsant/kernelcut  
+  Demo: https://joaofsant.github.io/kernelcut/
 
-- 🛠 Transitioned into tech with a Master’s in Data Science  
-- 🗂 Designed **data pipelines** that ingest, clean, and publish information (see Kernelcut project)  
-- 📊 Optimized **SQL queries on 12.7M+ NYC taxi rides** using DuckDB  
-- 🤖 Built **machine learning models** (XGBoost + SHAP) for churn prediction  
-- 🌍 Currently expanding into **Airflow, Spark, and Cloud (AWS/GCP)**  
+- **NYC Taxi SQL Optimization**  
+  DuckDB + SQL-only analysis of 12.7M trips; query optimisation and performance tuning  
+  Repo: https://github.com/joaofsant/nyc-taxi-sql-optimization
 
----
+- **Churn Prediction (XGBoost + SHAP)**  
+  Supervised learning pipeline with explainability and model evaluation  
+  Repo: https://github.com/joaofsant/churn-prediction-project
 
-## 📚 Data Engineer Roadmap
-
-*A structured journey from zero → professional pipelines.*
-
-**Month 1 – SQL & Linux**  
-👉 [NYC Taxi SQL Optimization](https://github.com/joaofsant/nyc-taxi-sql-optimization)  
-Learned query optimization, indexing, and handling millions of rows.  
-
-**Month 2 – Python for Data Engineering**  
-Building pipelines with Pandas, SQLAlchemy, FastAPI.  
-
-**Month 3 – Orchestration**  
-Airflow + Docker → automated data flows.  
-
-**Month 4 – Big Data & Cloud**  
-Spark, AWS S3/Athena, Redshift basics.  
-
-**Month 5 – Streaming & Warehousing**  
-Kafka, dimensional modeling, Snowflake/Postgres.  
-
-**Month 6 – MLOps & LLM Foundations**  
-Feature stores, model monitoring, RAG pipelines.  
-
-📖 Full detail: [Roadmap Data Engineer (Notion)](https://www.notion.so/Roadmap-Data-Engineer-26d60e0a49f38085b826d72d828c90d7?pvs=21)
-
----
-
-## 🚀 Projects Forged
-
-🔹 **[Kernelcut – Automated Tech Digest](https://github.com/joaofsant/kernelcut)**  
-RSS ingestion → filtering → ranking → daily digest via GitHub Actions + Pages.  
-*Stack: Python, Pandas, Parquet, GitHub Actions*  
-👉 [Live Demo](https://joaofsant.github.io/kernelcut/)
-
-🔹 **[NYC Taxi SQL Optimization](https://github.com/joaofsant/nyc-taxi-sql-optimization)**  
-DuckDB + SQL-only → analyzing 12.7M trips, indexing, performance tuning.  
-
-🔹 **[Churn Prediction](https://github.com/joaofsant/churn-prediction-project)**  
-Supervised learning pipeline with XGBoost + SHAP for explainability.  
-
----
-
-## 🎯 One-Liner
-
-*A pipeline mindset: clean inputs, reliable outputs, and automation at the core.*  
-
----
-
-## 📫 Let’s Connect
-
-- [LinkedIn](https://www.linkedin.com/in/joaofdossantos/)  
-- Email: joaofsant@outlook.pt  
-
----
-
-> *“Data never speaks loudly. It’s the right question that gives it a voice.”*  
-
+## Links
+- LinkedIn: https://www.linkedin.com/in/joaofdossantos/
+- Email: joaofsant@outlook.pt
